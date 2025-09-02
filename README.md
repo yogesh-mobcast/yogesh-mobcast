@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Yogesh!
 
-<!--
-**yogesh-mobcast/yogesh-mobcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | PHP / Laravel Specialist**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a passionate software developer with a focus on building robust, scalable, and maintainable web applications. My expertise lies in PHP, Laravel, and modern full stack development, but I also enjoy exploring new technologies and sharing knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 **Tech Stack:** PHP, Laravel, JavaScript, MySQL, REST APIs, HTML5, CSS3, AWS
+- 🛠️ **Tools & Workflow:** Git, VS Code, Composer, NPM
+- 🌱 **Currently Learning:** Advanced Laravel features, AWS, Frontend frameworks
+- 📫 **Contact:** [Email](mailto:yogesh@mobcast.in)
+
+---
+
+## 📊 GitHub Stats
+
+![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogesh-mobcast&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-mobcast&layout=compact&theme=radical)
+
+---
+
+_Thank you for visiting my profile!_
